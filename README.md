@@ -5,7 +5,7 @@ A simple and clean wishlist app built with **React**, **Vite**, and **Tailwind C
 ## 🌐 Live Demo
 
 Check out the live app here:  
-👉 [https://your-vercel-url.vercel.app]([https://your-vercel-url.vercel.app](https://wishlist-self-eight.vercel.app/))
+👉 [Click here to view the live site](https://wishlist-self-eight.vercel.app/)
 
 
 ---
